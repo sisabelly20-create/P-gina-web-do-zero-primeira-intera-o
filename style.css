@@ -1,16 +1,17 @@
 header {
-  background-color: #C7F2C4;
-  color: #259907;
+  background-color: #28a3f5;
+
+  color: #67da4a;
   text-align: center;
   max-width: 800px;
   margin: 0 auto;
   padding: 16px;
-  border: 5px solid #06ec40;
+  border: 5px solid #0c62c4;
 }
 
 main {
-  background-color: #FFFFFF;
-  color: #1f9900;
+  background-color: #54bb54;
+  color: #ffffff;
   max-width: 800px;
   margin: 0 auto;
   padding: 16px;
